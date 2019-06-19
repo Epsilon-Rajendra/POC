@@ -1,0 +1,52 @@
+
+    [{
+        "MovieName": "Movie 1",
+        "Language": "Kannada",
+        "Rating": "4 Star"
+    },
+    {
+        "MovieName": "Movie 2",
+        "Language": "Kannada",
+        "Rating": "5 Star"
+    },
+    {
+        "MovieName": "Movie 3",
+        "Language": "Hindi",
+        "Rating": "5 Star"
+    },
+    {
+        "MovieName": "Movie 4",
+        "Language": "Kannada",
+        "Rating": "4 Star"
+    },
+    {
+        "MovieName": "Movie 5",
+        "Language": "English",
+        "Rating": "3 Star"
+    },
+    {
+        "MovieName": "Movie 6",
+        "Language": "English",
+        "Rating": "5 Star"
+    },
+    {
+        "MovieName": "Movie 7",
+        "Language": "Hindi",
+        "Rating": "5 Star"
+    },
+    {
+        "MovieName": "Movie 8",
+        "Language": "Hindi",
+        "Rating": "4 Star"
+    },
+    {
+        "MovieName": "Movie 9",
+        "Language": "English",
+        "Rating": "4 Star"
+    },
+    {
+        "MovieName": "Movie 10",
+        "Language": "Kannada",
+        "Rating": "5 Star"
+    }]
+

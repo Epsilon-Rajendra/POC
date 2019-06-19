@@ -1,0 +1,27 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.container{
+  margin: 20px;
+}
+
+.filter-section{
+  font-size: 16px; 
+  background-color: gray;
+  color: #ffffff;
+  padding: 20px 10px; 
+  min-height: 400px;
+}
+p{
+  padding-bottom: 5px;
+}
+label{
+  display: block;
+  background-color: #ffffff;
+  padding: 10px;
+  color: #000000;
+}
+.table{
+  background-color: gray;
+}
